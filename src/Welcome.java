@@ -8,6 +8,8 @@ public class Welcome {
         System.out.println("********************************");//ctrl+y 한줄지우기
         System.out.println(" 1. 고객 정보 확인하기        4. 바구니에 항목 추가하기");
         System.out.println(" 1. 고객 정보 확인하기        4. 바구니에 항목 추가하기");
+        System.out.println(" 1. 고객 정보 확인하기        4. 바구니에 항목 추가하기");
+        System.out.println(" 1. 고객 정보 확인하기        4. 바구니에 항목 추가하기");
         System.out.println("********************************");
     }//cli=command line 콘솔에 출력프로그램
     //항상위에부터 아래로 1차원적으로 순서대로 나열되고 실행된다
